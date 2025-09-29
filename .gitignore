@@ -1,0 +1,5 @@
+chinook.db
+*.csv
+*.db
+.vscode/*
+!/.vscode/settings.json
