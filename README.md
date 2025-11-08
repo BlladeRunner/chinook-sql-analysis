@@ -30,7 +30,7 @@ sqlite3 chinook.db ".read bootstrap_chinook.sql"
 # Open queries.sql in VS Code (SQLTools) → select query → Ctrl+E, Ctrl+E
 
 ```
-🧮 Analysis Highlights
+## 🧮 Analysis Highlights
 The analysis includes:
 💰 Monthly revenue and MoM (Month-over-Month) growth.
 🎧 Top customers by total purchases and revenue.
@@ -39,14 +39,14 @@ The analysis includes:
 🧺 Market basket analysis (track pair sales).
 📈 Cohorts and RFM segmentation.
 
-🧠 Key Insights
+## 🧠 Key Insights
 🔹 Rock and Latin genres dominate total sales (~45% combined).
 🔹 Customers from the USA and Germany generate the highest revenue.
 🔹 Employees Jane Peacock and Steve Johnson consistently outperform in client support.
 🔹 Loyal customer cohorts exhibit strong repeat-purchase behavior after 6 months.
 🔹 High RFM customers (top 20%) contribute ~60% of total revenue.
 
-💼 Business Relevance
+## 💼 Business Relevance
 These insights can help music store managers and digital distributors:
 Identify high-value customers and optimize loyalty programs.
 Refocus marketing efforts on top-performing genres and regions.
